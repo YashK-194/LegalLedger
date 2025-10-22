@@ -1,0 +1,35 @@
+{
+  "name": "Yash's docs",
+  "description": "desccc oiomlimd",
+  "document_type": "Contract",
+  "issued_by": "Government of India",
+  "issued_to": "Yash Kumar",
+  "issuer_address": "0xA370F5A510a8DbB1a2955940A6d96D123e4AA97c",
+  "issued_to_address": "0x278aF9879533d767C52102CF7281Bf041Df85173",
+  "jurisdiction": "Ghaziabad",
+  "legal_references": [
+    "Some reference"
+  ],
+  "document_details": {
+    "page_count": 2,
+    "format": "PDF",
+    "language": "English",
+    "notary_stamp_present": true
+  },
+  "image": "ipfs://bafybeihu44tfhbtzv5s3snuqj5dy2hi2mgbwgjqy7q6wuenkif5bxgnkgy",
+  "file_url": "https://yellow-tricky-moth-307.mypinata.cloud/ipfs/Qma5GK5ppu2otTQNTLkU97pL5sb4jDiHVDoRSbkdxx3Q4G",
+  "attributes": [
+    {
+      "trait_type": "Document Type",
+      "value": "Contract"
+    },
+    {
+      "trait_type": "Jurisdiction",
+      "value": "Ghaziabad"
+    },
+    {
+      "trait_type": "Notary Stamp",
+      "value": "Yes"
+    }
+  ]
+}
