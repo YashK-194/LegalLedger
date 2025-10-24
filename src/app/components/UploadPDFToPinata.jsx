@@ -37,7 +37,7 @@ export default function UploadPDFToPinata({ setPdfUrl }) {
 
 	return (
 		<div className="p-6 bg-white rounded-lg shadow-md mb-6">
-			<h2 className="text-xl font-semibold mb-4">Upload PDF to IPFS</h2>
+			<h2 className="text-xl text-gray-900 font-semibold mb-4">Upload PDF to IPFS</h2>
 			<p className="text-sm text-gray-600 mb-4">Upload the document.pdf from /metadata folder to Pinata IPFS</p>
 
 			<button

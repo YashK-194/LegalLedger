@@ -105,7 +105,7 @@ function MintNFT({ receiverAdd, metadataUrl, contract, account, connectWallet })
 
 	return (
 		<div className="mt-8 p-6 bg-white rounded-lg shadow-md">
-			<h2 className="text-xl font-semibold mb-4">Mint NFT</h2>
+			<h2 className="text-xl text-gray-900 font-semibold mb-4">Mint NFT</h2>
 
 			{/* Status Messages */}
 			{error && (

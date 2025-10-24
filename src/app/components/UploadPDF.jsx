@@ -69,7 +69,7 @@ export default function UploadPDF() {
 
 	return (
 		<div className="p-6 bg-white rounded-lg shadow-md mb-6">
-			<h2 className="text-xl font-semibold mb-4">Upload PDF Document</h2>
+			<h2 className="text-xl text-gray-900 font-semibold mb-4">Upload PDF Document</h2>
 
 			<div className="space-y-4">
 				{/* File Input */}
