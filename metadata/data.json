@@ -1,12 +1,12 @@
 {
-  "name": "Yash's docs",
-  "description": "desccc oiomlimd",
+  "name": "Test",
+  "description": "Test",
   "document_type": "Contract",
-  "issued_by": "Government of India",
-  "issued_to": "Yash Kumar",
-  "issuer_address": "0xA370F5A510a8DbB1a2955940A6d96D123e4AA97c",
-  "issued_to_address": "0x278aF9879533d767C52102CF7281Bf041Df85173",
-  "jurisdiction": "Ghaziabad",
+  "issued_by": "Test",
+  "issued_to": "Test",
+  "issuer_address": "0xaBfa2B2C6817aFC6E0E0Bde4366D0270eAde1092",
+  "issued_to_address": "0xA370F5A510a8DbB1a2955940A6d96D123e4AA97c",
+  "jurisdiction": "India",
   "legal_references": [
     "Some reference"
   ],
@@ -17,7 +17,7 @@
     "notary_stamp_present": true
   },
   "image": "ipfs://bafybeihu44tfhbtzv5s3snuqj5dy2hi2mgbwgjqy7q6wuenkif5bxgnkgy",
-  "file_url": "https://yellow-tricky-moth-307.mypinata.cloud/ipfs/Qma5GK5ppu2otTQNTLkU97pL5sb4jDiHVDoRSbkdxx3Q4G",
+  "file_url": "",
   "attributes": [
     {
       "trait_type": "Document Type",
@@ -25,7 +25,7 @@
     },
     {
       "trait_type": "Jurisdiction",
-      "value": "Ghaziabad"
+      "value": "India"
     },
     {
       "trait_type": "Notary Stamp",

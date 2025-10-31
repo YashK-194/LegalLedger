@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract LegalLedger is ERC721Enumerable, Ownable {
 
-    constructor() ERC721("TESTLedger NFT", "TLNFT") Ownable(msg.sender) {}
+    constructor() ERC721("LLTest NFT", "TLNFT") Ownable(msg.sender) {}
 
     uint256 private _nextCount = 1;
 
